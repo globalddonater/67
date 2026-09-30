@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "HAVOC",
+      "hasCanvas": false,
+      "bodyTextLen": 184,
+      "bodyTextHash": "2b783a74a6bbc4ebacc2f625b48ba71793c080aad71020fcf6413bc176d235f7",
+      "bodyTextPrefix": "HAVOC TACTICAL FPS Играть Карта Dune · боты 5 на 5 · дэзматч · д",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "HAVOC",
+      "hasCanvas": false,
+      "bodyTextLen": 163,
+      "bodyTextHash": "b6c4a57dbc3d9b0e8444c1d6b8898d238aaf63365077b29c8d24a5ac3e0dbb76",
+      "bodyTextPrefix": "HAVOC TACTICAL FPS Играть Карта Dune · боты 5 на 5 · дэзматч · д",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
